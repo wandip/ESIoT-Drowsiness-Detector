@@ -3,7 +3,7 @@ IoT Mini Project
 
 # OpenCV + dlib + Python
 ```
-python detect_drowsiness.py
+python driver.py
 ```
 Used to detect drowsiness of a driver using a Raspberry Pi. The code can be modified to get input from live camera module or USB Camera.
 
