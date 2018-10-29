@@ -1,4 +1,5 @@
-<?php 
+<?php
+ 
 //importing required files 
 require_once 'DbOperation.php';
 require_once 'Firebase.php';
